@@ -1,33 +1,47 @@
-This is a website project on Tour and Travel.
-The westite is " HUSTLA' - Tour n Travel "
+# 🌍 Hustla' – Tour & Travel Website
 
-Stack used : HTML, CSS, Javascript, SQL, PHP, XAMPP.
+*Hustla'* is a modern, user-friendly tour and travel website designed to help users explore, plan, and book trips with ease. From destination discovery to custom itinerary planning, Hustla' simplifies your travel experience with a clean interface and intuitive functionality.
+>The Youtube link to the complete functionality as well as UI/UX of this website:
+>https://youtu.be/JNXS0Ap99aQ
 
-To access the website, first the system must have Xampp downloaded beforehand. Once it is available,
-create a database in it named "she_hacks" by doing manually or by using query "CREATE DATABASE she_hacks;".
-Now, put the following link on browser : 
+## ✈️ Key Features
 
-http://localhost/SHE_HACKS/database/createTables.php    (i)     //Define path correctly
-Make sure the directory you're working in is located inside the home/..../xampp/htdocs/ folder.
-Define the path in the link (i) correctly before running it in browser.
-After this, the database will get updated. (Go to your xampp for verification.)
+- 🧳 Browse popular destinations with image galleries and travel guides
+- 📅 Book tours and travel packages online
+- 🔍 Filter by destination, price, duration and themes (adventure, heritage, family, etc.)
+- 🧍 User registration and login
+- 📥 Contact and feedback form for inquiries
+- 🎯 Admin panel to manage destinations, bookings and users
 
-////////
-To escape all the hassle, simply create a folder named "SHE_HACKS" in xampp/htdocs/ directory and
-bring all the files from GitHub here.
-To verify check if your path to the file "main.php" is like " ....xampp/htdocs/SHE_HACKS/main.php "
-///////
+## 🛠️ Tech Stack
+
+- *Frontend*: HTML, CSS, JavaScript
+- *Backend*: PHP
+- *Database*: MySQL via XAMPP
+- *Other Tools*: XAMPP
+
+## 🏗️ Prerequisite
+
+It is good to have basic knowledge of HTML, CSS, PHP and MySQL to understand this project.
+>This project has been built using XAMPP for database. To access the website, first the system must have XAMPP Server downloaded beforehand.
+
+## Setting up the environment
+
+- Download and extract project source code on your local machine.
+- Paste the source code in the htdocs folder. Default path will be here("C:\xampp\htdocs")
+- Open XAMP Control Panel and start Apache & MySQL service
+- Open your web browser and paste this link ("http://localhost/phpmyadmin/"). It should open database server page.
+- Create new empty database named "she_hacks". Now, put this link on browser : "http://localhost/foldername-in-htdocs-directory/database/createTables.php".
+- The database will get updated. (Go to your xampp for verification.)
+- Open your web browser and paste this link ("http://localhost/foldername-in-htdocs-directory/main.php"). It should open home page.
 
 
-Now, run the link (ii) in browser :
-
-http://localhost/SHE_HACKS/main.php (ii)    //Define path correctly
-
-The main page of the application will appear. Now click on login button.
+Now click on login button.
 Refer to database (user_details table) for logging in.
 OR
 Put username: jn, password: 123
-Voila! The HUSTLA' is ready to serve you.
+
+### Voila! The HUSTLA' is ready to serve you.
 
 Following are the functionalities provided by the application :
 
@@ -41,3 +55,7 @@ Following are the functionalities provided by the application :
 8. Valid Coupons
 9. Inquiries
 10. Logout
+
+
+
+# Screenshots
