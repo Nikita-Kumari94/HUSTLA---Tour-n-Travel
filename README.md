@@ -59,3 +59,8 @@ Following are the functionalities provided by the application :
 
 
 # Screenshots
+![Screenshot 2025-01-13 201443](https://github.com/user-attachments/assets/843bb08d-635b-4fa7-a8ac-2d330c478d76)
+![Screenshot 2025-01-13 201455](https://github.com/user-attachments/assets/03738b7b-dafb-4481-b5f7-cd0670b6d42a)
+![Screenshot 2025-01-13 201553](https://github.com/user-attachments/assets/86cd5f27-1e94-463e-a0d6-d5ef4ecf8d75)
+![Screenshot 2025-01-13 201724](https://github.com/user-attachments/assets/47ab48b6-a5e5-4c44-9aaf-e380d64b5a77)
+![Screenshot 2025-01-13 201651](https://github.com/user-attachments/assets/21794abd-469f-4791-9935-d21fd3f9d005)
